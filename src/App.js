@@ -6,7 +6,12 @@ import "./App.css";
 
 //c2090f40
 
-const API_URL = "http://www.omdbapi.com?apikey=c2090f40";
+//const API_URL = "http://www.omdbapi.com?apikey=c2090f40";
+
+const apiKey = process.env.REACT_APP_API_KEY;
+const apiUrl = process.env.REACT_APP_API_URL;
+
+const API_URL = `${apiUrl}/?i=tt3896198&apikey=${apiKey}`;
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
