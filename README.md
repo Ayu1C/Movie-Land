@@ -1,3 +1,12 @@
+Movie Land is a comprehensive platform designed to streamline the movie discovery process. With its user-friendly search functionality, Movie Land allows users to effortlessly find all movies related to a specific topic. By simply entering a keyword, such as 'time,' users can access a curated list of movies featuring that theme, making it a convenient one-stop destination for cinephiles seeking to explore a particular subject within the realm of cinema.
+![Screenshot (137)](https://github.com/Ayu1C/Movie-Land/assets/102305307/9c3db229-9460-4e18-9daf-d688fe25d78a)
+
+![Screenshot (138)](https://github.com/Ayu1C/Movie-Land/assets/102305307/a000c970-912e-4381-b7fd-682e9a37f582)
+
+![Screenshot (139)](https://github.com/Ayu1C/Movie-Land/assets/102305307/4efdc667-6f3b-4f56-9485-7ac5215274d0)
+
+![Screenshot (141)](https://github.com/Ayu1C/Movie-Land/assets/102305307/dd7dbb04-b533-4fba-91e4-d7ddaa28b2fa)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
